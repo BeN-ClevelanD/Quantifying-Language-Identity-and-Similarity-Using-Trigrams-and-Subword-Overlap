@@ -1,5 +1,5 @@
 ==================================================
-NLP817 Assignment 1: Trigram Language Models & BPE
+Trigram Language Models & BPE
 ==================================================
 
 This project trains character-level trigram language models for multiple languages, evaluates cross-lingual perplexity, implements Byte Pair Encoding (BPE) from scratch, and performs sentence-level language identification.
@@ -68,7 +68,7 @@ Install all required libraries from `requirements.txt`.
 
 ---
 
-Once everything is set up, you're good to run:
+Once everything is set up, you're good to run (once data has been obtained via request):
 python main.py
 
 All results and visualisations will be generated automatically.
